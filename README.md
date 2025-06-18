@@ -14,7 +14,7 @@ cf-hunter, bug bounty ve sızma testi yapan araştırmacılar için hazırlanmı
 ## 🔧 Kurulum
 
 ```bash
-git clone https://github.com/kullaniciadi/cf-hunter.git
-cd cf-hunter
+https://github.com/ilkersaka/CF_403_Bypass.git
+cd CF_403_Bypass
 chmod +x cf_hunter.sh
 npm install puppeteer
