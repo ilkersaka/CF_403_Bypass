@@ -18,7 +18,15 @@ https://github.com/ilkersaka/CF_403_Bypass.git
 cd CF_403_Bypass
 chmod +x cf_hunter.sh
 npm install puppeteer
+```
 
 ## ⚙️ Kullanım
 
+🔹 Temel Cloudflare bypass testi
+```bash
 ./cf_hunter.sh https://target.com
+```
+🔹 Proxy ile test
+```bash
+./cf_hunter.sh https://target.com http://127.0.0.1:8080
+```
