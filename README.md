@@ -18,3 +18,7 @@ https://github.com/ilkersaka/CF_403_Bypass.git
 cd CF_403_Bypass
 chmod +x cf_hunter.sh
 npm install puppeteer
+
+## ⚙️ Kullanım
+
+./cf_hunter.sh https://target.com
